@@ -1,0 +1,9 @@
+{
+	"type": "origins:entity_glow",
+    "entity_condition": {
+        "type": "origins:dimension",
+        "dimension": "minecraft:the_end"
+    },
+	"name": "End Sight",
+	"description": "You can see thing even through block while in the end"
+}

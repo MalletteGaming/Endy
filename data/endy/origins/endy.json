@@ -1,0 +1,11 @@
+{
+	"powers": [
+		"endy:watcher",
+		"endy:end_sight"
+	],
+	"icon": "minecraft:ender_eye",
+	"order": 10,
+	"impact": 0,
+	"name": "Endy",
+	"description": "Watcher"
+}
